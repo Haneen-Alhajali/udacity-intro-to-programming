@@ -20,9 +20,11 @@ The game uses functions, randomness, user choices, and clean PEP8 code.
 ## ▶️ How to Run
 ```bash
 python adventure_game.py
+```
 
 ## 📌 Requirements
 - Python 3  
 - `time` and `random` modules (built-in)
 
 Enjoy the game! 🎉
+
